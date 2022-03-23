@@ -1,6 +1,10 @@
 - [ ] Quest validation
+  - [ ] Quest 1
+  - [ ] Quest 2
 - [ ] Mob placement / validation
 - [ ] Tradeskill container placement / validation
 - [ ] Wiki documentation
 - [ ] Loot drop validation
 - [ ] Merchant vendor list validation
+  - [ ] Merchant 1
+  - [ ] Merchant 2
