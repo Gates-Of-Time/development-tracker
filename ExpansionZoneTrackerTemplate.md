@@ -13,6 +13,6 @@
   - [ ] Mob detail pages
   - [ ] Item detail pages
 - [ ] Loot drop validation
-- [ ] Merchant vendor list validation
+- [ ] Merchant vendor list validation (check for out of era items and missing items)
   - [ ] Merchant 1
   - [ ] Merchant 2
