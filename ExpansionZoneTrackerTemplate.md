@@ -2,6 +2,7 @@
   - [ ] Quest 1
   - [ ] Quest 2
 - [ ] Mob placement / validation
+  - [ ] Database spawngroups and spawns 
   - [ ] General mobs (floating mobs, stuck in walls)
   - [ ] Named 1
   - [ ] Named 2
