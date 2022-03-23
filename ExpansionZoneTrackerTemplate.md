@@ -2,8 +2,15 @@
   - [ ] Quest 1
   - [ ] Quest 2
 - [ ] Mob placement / validation
+  - [ ] General mobs (floating mobs, stuck in walls)
+  - [ ] Named 1
+  - [ ] Named 2
 - [ ] Tradeskill container placement / validation
 - [ ] Wiki documentation
+  - [ ] General zone info (map, mobs, items, quests, lore)
+  - [ ] Quest detail pages
+  - [ ] Mob detail pages
+  - [ ] Item detail pages
 - [ ] Loot drop validation
 - [ ] Merchant vendor list validation
   - [ ] Merchant 1
