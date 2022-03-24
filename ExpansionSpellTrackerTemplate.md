@@ -1,0 +1,7 @@
+- [ ] Names
+- [ ] Mana usage
+- [ ] Range
+- [ ] Durations
+- [ ] Levels
+- [ ] Cast timers
+- [ ] Spell effects
