@@ -1,0 +1,20 @@
+- [ ] Scripts
+  - [ ] Check against various sources (min 2)
+    - [ ] Dialogue
+    - [ ] Faction
+    - [ ] Coin
+    - [ ] Item reward
+    - [ ] XP reward
+  - [ ] Check faked dialogues against live     
+  - [ ] Check bad scripting
+    - [ ] Converting qglobals to data buckets
+    - [ ] Refactoring signals
+    - [ ] Timers
+    - [ ] Attack, slay and death dialogues
+- [ ] NPC
+  - [ ] Duplciate types
+  - [ ] Factions
+  - [ ] Spells
+  - [ ] Spawn groups
+  - [ ] Spawn conditions
+  - [ ] Spawn points
