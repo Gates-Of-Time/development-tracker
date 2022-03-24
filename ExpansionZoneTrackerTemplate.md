@@ -13,6 +13,7 @@
     - [ ] Items
     - [ ] Quests
     - [ ] Lore
+    - [ ] Merchants
   - [ ] Quest detail pages
   - [ ] Mob detail pages
   - [ ] Item detail pages
