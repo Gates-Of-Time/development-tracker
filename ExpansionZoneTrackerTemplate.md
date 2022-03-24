@@ -2,13 +2,17 @@
   - [ ] Quest 1
   - [ ] Quest 2
 - [ ] Mob placement / validation
-  - [ ] Database spawngroups and spawns 
-  - [ ] General mobs (floating mobs, stuck in walls)
-  - [ ] Named 1
-  - [ ] Named 2
+  - [ ] Spawn locations are correct 
+  - [ ] Pathings are correct (also check no pathing through buildings/doors/etc)
+  - [ ] Named mobs are era correct
 - [ ] Tradeskill container placement / validation
 - [ ] Wiki documentation
-  - [ ] General zone info (map, mobs, items, quests, lore)
+  - [ ] General zone info
+    - [ ] Map
+    - [ ] Mobs
+    - [ ] Items
+    - [ ] Quests
+    - [ ] Lore
   - [ ] Quest detail pages
   - [ ] Mob detail pages
   - [ ] Item detail pages
