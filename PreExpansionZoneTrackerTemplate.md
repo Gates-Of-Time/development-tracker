@@ -12,7 +12,7 @@
     - [ ] Timers
     - [ ] Attack, slay and death dialogues
 - [ ] NPC
-  - [ ] Duplciate types
+  - [ ] Duplicate types
   - [ ] Factions
   - [ ] Spells
   - [ ] Spawn groups
